@@ -7,6 +7,8 @@ import Login from './pages/Auth/Login/Login.Pages';
 import Register from './pages/Auth/Register/Reg.Pages';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { Navigate } from 'react-router-dom';
+// import Book from './components/Book/Book.component';
+import BookDetails from './components/BookDetails/BookDetails';
 
 function App() {
 	const user = true;
@@ -25,6 +27,7 @@ function App() {
 						path='/register'
 						element={user ? <Navigate to='/login' /> : <Register />}
 					/>
+					<Route path='/books/:id' element={<BookDetails />} />
 					{/* <h1 className='font-bold text-center text-4xl py-10'>Bookist</h1> */}
 					{/* <Books /> */}
 				</Routes>

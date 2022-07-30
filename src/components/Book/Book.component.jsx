@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { GoLinkExternal } from 'react-icons/go';
+import { Link } from 'react-router-dom';
 
 const Book = ({ book }) => {
 	const buyLinks = book.buy_links;
@@ -15,13 +16,15 @@ const Book = ({ book }) => {
 				/>
 			</div>
 			<div>
-				<h3 className='font-bold my-2 text-2xl'> {book.title}</h3>
-				<p className='mb-4'>{book.description}</p>
-				<p>
-					{' '}
-					<span className='font-bold'>Author:</span>
-					{book.author}
-				</p>
+				<Link to={`/books/${book.primary_isbn10}`}>
+					<h3 className='font-bold my-2 text-2xl'> {book.title}</h3>
+					<p className='mb-4'>{book.description}</p>
+					<p>
+						{' '}
+						<span className='font-bold'>Author:</span>
+						{book.author}
+					</p>
+				</Link>
 			</div>
 			<ul className='mb-4'>
 				<li>
