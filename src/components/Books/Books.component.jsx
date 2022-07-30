@@ -1,35 +1,21 @@
 /** @format */
 
 import { React, useState, useEffect } from 'react';
+import useFetch from '../../customHooks/useFetch.js';
 import Book from '../Book/Book.component.jsx';
 
 const Books = () => {
 	const [searchTerm, setSearchTerm] = useState('');
-	const [books, setBooks] = useState([]);
-	const [isLoading, setIsLoading] = useState(true);
-	const [error, setError] = useState(null);
-	// get books
-	const getBooks = async () => {
-		try {
-			const res = await fetch('http://localhost:5000/bookss');
-			if (!res.ok) {
-				throw Error('could not get data for that resource!🚫');
-			}
-			console.log(res);
-			const booksData = await res.json();
-			// console.log(booksData.results.books);
-			setBooks(booksData);
-			setIsLoading(false);
-			setError(null);
-		} catch (error) {
-			setError(error.message);
-			setIsLoading(false);
-		}
-	};
 
-	useEffect(() => {
-		getBooks();
-	}, []);
+	const {
+		data: books,
+		isLoading,
+		error,
+	} = useFetch('http://localhost:5000/books');
+	// get books
+
+	// extract fetch function
+
 	return (
 		<div>
 			<h1 className='font-bold text-center text-4xl py-10'>Bookist</h1>
