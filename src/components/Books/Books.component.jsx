@@ -20,6 +20,7 @@ const Books = () => {
 			// console.log(booksData.results.books);
 			setBooks(booksData);
 			setIsLoading(false);
+			setError(null);
 		} catch (error) {
 			setError(error.message);
 			setIsLoading(false);
