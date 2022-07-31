@@ -20,7 +20,7 @@ const Books = () => {
 		<div>
 			<h1 className='font-bold text-center text-4xl py-10'>Bookist</h1>
 			<input
-				className='text-center my-10 w-200'
+				className='tw:1/4 h-10 m-auto mb-20'
 				type='text'
 				placeholder='Search'
 				onChange={(e) => setSearchTerm(e.target.value)}
