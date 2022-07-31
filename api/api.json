@@ -24,6 +24,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "1538719843",
@@ -90,6 +112,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "1982155264",
@@ -152,6 +196,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0316258679",
@@ -226,6 +292,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0385549326",
@@ -296,6 +384,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0593321200",
@@ -358,6 +468,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0593157532",
@@ -416,6 +548,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "1982182156",
@@ -478,6 +632,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "1501171348",
@@ -548,6 +724,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0525559477",
@@ -614,6 +812,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0399562966",
@@ -676,6 +896,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "1984818848",
@@ -734,6 +976,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "038554734X",
@@ -792,6 +1056,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0593183193",
@@ -854,6 +1140,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0316499447",
@@ -916,6 +1224,28 @@
 			"first_chapter_link": "",
 			"sunday_review_link": "",
 			"article_chapter_link": "",
+			"reviews": [
+				{
+					"id": 1,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 2,
+					"author": "Jane_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 3,
+					"author": "John_Doe",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				},
+				{
+					"id": 4,
+					"author": "Lee",
+					"text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis itaque suscipit neque! Qui, accusantium. Sunt molestias totam, sit ipsum nobis doloribus numquam"
+				}
+			],
 			"isbns": [
 				{
 					"isbn10": "0735219095",

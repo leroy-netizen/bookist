@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Book = ({ book }) => {
 	const buyLinks = book.buy_links;
+	// console.log(book.publisher);
 	return (
 		<article className='bg-white px-15 py-10 mb-10 rounded-lg sm:px-5 hover:shadow-2xl'>
 			<div>
@@ -16,19 +17,21 @@ const Book = ({ book }) => {
 				/>
 			</div>
 			<div>
-				<Link to={`/books/${book.primary_isbn10}`}>
-					<h3 className='font-bold my-2 text-2xl'> {book.title}</h3>
-					<p className='mb-4'>{book.description}</p>
-					<p>
-						{' '}
-						<span className='font-bold'>Author:</span>
-						{book.author}
-					</p>
-				</Link>
+				{/* <Link to={`/books/${book.primary_isbn10}`}> */}
+				<h3 className='font-bold my-2 text-2xl'>
+					<Link to={`/books/${book.primary_isbn10}`}>{book.title}</Link>
+				</h3>
+				<p className='mb-4'>{book.description}</p>
+				<p>
+					{' '}
+					<span className='font-bold'>Author:</span>
+					{book.author}
+				</p>
+				{/* </Link> */}
 			</div>
 			<ul className='mb-4'>
 				<li>
-					<span className='font-bold'>ISBN</span> {'\u00a0'}{' '}
+					<span className='font-bold'>ISBN:</span>
 					{book.primary_isbn10}
 				</li>
 				<li>

@@ -3,7 +3,7 @@
 import { React, useState, useEffect } from 'react';
 import useFetch from '../../customHooks/useFetch.js';
 import Book from '../Book/Book.component.jsx';
-
+import { Link } from 'react-router-dom';
 const Books = () => {
 	const [searchTerm, setSearchTerm] = useState('');
 
@@ -11,7 +11,7 @@ const Books = () => {
 		data: books,
 		isLoading,
 		error,
-	} = useFetch('http://localhost:5000/books');
+	} = useFetch('https://root-classy-raccoon.glitch.me/books');
 	// get books
 
 	// extract fetch function
@@ -43,7 +43,11 @@ const Books = () => {
 								rank,
 								title,
 							} = book;
-							return <Book key={book.primary_isbn10} book={book} />;
+							return (
+								<Link to={`/books/${book.primary_isbn10}`}>
+									<Book key={book.primary_isbn10} book={book} />
+								</Link>
+							);
 						})}
 				</section>
 			)}

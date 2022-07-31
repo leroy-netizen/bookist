@@ -11,10 +11,7 @@ const Navbar = () => {
 				<h3 className='m-10 text-3xl font-bold'>Bookist</h3>
 			</div>
 			<ul className='flex justify-center'>
-				<li
-					to='/'
-					className='navItems m-10 font-bold cursor-pointer text-underline'
-				>
+				<li to='/' className=' m-10 font-bold cursor-pointer text-underline'>
 					<Link to='/'>Home</Link>
 				</li>
 				<li className='navItems m-10 font-bold cursor-pointer'>
