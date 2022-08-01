@@ -102,7 +102,14 @@ const AddBook = () => {
 					onChange={(e) => setAppleLink(e.target.value)}
 					className='h-10 m-auto mb-10'
 				/>
-				<button className='bg-red-200 w-1/4 h-10 m-auto'>Add Book</button>
+				{!isLoading && (
+					<button className='bg-red-200 w-1/4 h-10 m-auto'>Add Book</button>
+				)}
+				{isLoading && (
+					<button disabled className='bg-red-200 w-1/4 h-10 m-auto'>
+						Adding book ...{' '}
+					</button>
+				)}
 			</form>
 		</div>
 	);

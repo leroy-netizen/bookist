@@ -1,6 +1,6 @@
 /** @format */
 
-import { React, useState, useEffect } from 'react';
+import { React, useState } from 'react';
 import useFetch from '../../customHooks/useFetch.js';
 import Book from '../Book/Book.component.jsx';
 import { Link } from 'react-router-dom';
@@ -33,16 +33,16 @@ const Books = () => {
 					{books
 						.filter((book) => book.title.toLowerCase().includes(searchTerm))
 						.map((book) => {
-							const {
-								author,
-								book_image,
-								buy_links,
-								description,
-								primary_isbn10,
-								publisher,
-								rank,
-								title,
-							} = book;
+							// const {
+							// 	author,
+							// 	book_image,
+							// 	buy_links,
+							// 	description,
+							// 	primary_isbn10,
+							// 	publisher,
+							// 	rank,
+							// 	title,
+							// } = book;
 							return (
 								<Link to={`/books/${book.primary_isbn10}`}>
 									<Book key={book.primary_isbn10} book={book} />
