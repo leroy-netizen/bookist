@@ -10,6 +10,7 @@ const AddBook = () => {
 	const [publisher, setPublisher] = useState('');
 	const [amznLink, setAmznLink] = useState('');
 	const [appleLink, setAppleLink] = useState('');
+	const [isLoading, setIsLoading] = useState(false);
 	const handleSubmit = (e) => {
 		e.preventDefault();
 		const book = {
@@ -22,6 +23,7 @@ const AddBook = () => {
 			amznLink,
 			appleLink,
 		};
+		setIsLoading(true);
 		// console.log(book);
 		fetch('https://root-classy-raccoon.glitch.me/books', {
 			method: 'POST',
@@ -29,6 +31,7 @@ const AddBook = () => {
 			body: JSON.stringify(book),
 		}).then(() => {
 			console.log('new book added');
+			setIsLoading(false);
 		});
 	};
 	return (
