@@ -19,7 +19,7 @@ const useFetch = (url) => {
 				// console.log(res);
 				const data = await res.json();
 				// console.log(booksData.results.books);
-				console.log(data);
+				// console.log(data);
 				setData(data);
 				setIsLoading(false);
 				setError(null);

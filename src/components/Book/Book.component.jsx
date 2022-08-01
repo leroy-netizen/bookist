@@ -41,22 +41,23 @@ const Book = ({ book }) => {
 			</ul>
 			<ul>
 				<p className='font-bold text-xl'>BUY NOW</p>
-				{buyLinks.map((link) => {
-					const { name, url } = link;
-					return (
-						<div key={name} className='bg-gray-50'>
-							{/* <li>{name}</li> */}
-							<a
-								href={url}
-								className='flex items-center ml-1'
-								target='_blank'
-								rel='noopenner noreferrer'
-							>
-								{name} <GoLinkExternal className='ml-1' />
-							</a>
-						</div>
-					);
-				})}
+				{buyLinks &&
+					buyLinks.map((link) => {
+						const { name, url } = link;
+						return (
+							<div key={name} className='bg-gray-50'>
+								{/* <li>{name}</li> */}
+								<a
+									href={url}
+									className='flex items-center ml-1'
+									target='_blank'
+									rel='noopenner noreferrer'
+								>
+									{name} <GoLinkExternal className='ml-1' />
+								</a>
+							</div>
+						);
+					})}
 			</ul>
 		</article>
 	);
